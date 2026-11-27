@@ -1,0 +1,6 @@
+{
+  "name": "TuxPane Browser",
+  "description": "A Linux-focused web browser for Ubuntu and openSUSE featuring toggleable vertical tabs, distro-native theming, live web browsing, and exportable GTK4/WebKitGTK desktop source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
